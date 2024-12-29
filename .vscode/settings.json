@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "git hub.sln"
+    "dotnet.defaultSolution": "repository.sln"
 }
